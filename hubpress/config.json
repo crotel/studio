@@ -6,6 +6,15 @@
     "cname": "crotel.studio",
     "delay": "300"
   },
+  "site": {
+    "title": "CROTEL STUDIO",
+    "description": "A studio project which work hard at standalone anime."
+  },
+  "socialnetwork": {
+    "email": "contact@cro.tel",
+    "twitter": "https://twitter.com/crotel",
+    "flickr": "https://flickr.com/photo/crotel"
+  },
   "theme": {
     "name": "ichi"
   }
