@@ -1,10 +1,12 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "gh-pages"
+    "username": "crotel",
+    "repositoryName": "studio",
+    "branch": "gh-pages",
+    "cname": "crotel.studio",
+    "delay": "300"
   },
   "theme": {
-    "name": "Casper"
+    "name": "ichi"
   }
 }
